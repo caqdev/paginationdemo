@@ -1,0 +1,14 @@
+{
+  "name": "paginationchallenge",
+  "version": "1.0.0",
+  "description": "Challenge to practice working with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Quintanilla",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
