@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title":"Cry, The Beloved Country",
+            "author":"Alan Paton"
+        },
+        {
+            "id": 2,
+            "title":"The Immoralist",
+            "author":"Andre Gide"
+        },
+        {
+            "id": 3,
+            "title":"The Burgess Boys",
+            "author":"Elizabeth Strout"
+        },
+        {
+            "id": 4,
+            "title":"Extinction",
+            "author":"Thomas Bernard"
+        },
+        {
+            "id": 5,
+            "title":"When Breath Becomes Air",
+            "author":"Dr. Paul Kalanithi"
+        },
+        {
+            "id": 6,
+            "title":"Paradise of the Blind",
+            "author":"Duong Thu Huong"
+        },
+        {
+            "id": 7,
+            "title":"Cryptonomicon",
+            "author":"Neal Stephenson"
+        },
+        {
+            "id": 8,
+            "title":"Atonement",
+            "author":"Ian McEwan"
+        },
+        {
+            "id": 9,
+            "title":"The Once and Future King",
+            "author":"T.H. White"
+        },
+        {
+            "id": 10,
+            "title":"The Care and Feeding of Ravenously Hungry Girls",
+            "author":"Anissa Gray"
+        },
+        {
+            "id": 11,
+            "title":"The Pilgrim's Progress",
+            "author":"John Bunyan"
+        },
+        {
+            "id": 12,
+            "title":"The Litigators",
+            "author":"John Grisham"
+        },
+        {
+            "id": 13,
+            "title":"I'll Give You the Sun",
+            "author":"Jandy Nelson"
+        },
+        {
+            "id": 14,
+            "title":"The Day of the Locust",
+            "author":"Nathanael West"
+        },
+        {
+            "id": 15,
+            "title":"A Severed Head",
+            "author":"Iris Murdoch"
+        },
+        {
+            "id": 16,
+            "title":"The Wright Brothers",
+            "author":"David McCullough"
+        },
+        {
+            "id": 17,
+            "title":"The Magician's Land",
+            "author":"Lev Grossman"
+        },
+        {
+            "id": 18,
+            "title":"Smilla's Sense of Snow",
+            "author":"Peter Høeg"
+        },
+        {
+            "id": 19,
+            "title":"Olive, Again",
+            "author":"Elizabeth Strout"
+        },
+        {
+            "id": 20,
+            "title":"Dirk Gently's Holistic Detective Agency",
+            "author":"Douglas Adams"
+        }
+    ]
+}
